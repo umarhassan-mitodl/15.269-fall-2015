@@ -1,0 +1,67 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "legacy_uid": "f3430008-a951-5072-1aa5-6f35b2381d60",
+  "instructors": {
+    "content": [
+      "3b529d11-7731-958d-bc28-db422ebbb200"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b143aa75-a490-5f49-c6f7-e234f0f97525",
+    "website": "15-269-leadership-stories-literature-ethics-and-authority-fall-2015"
+  },
+  "course_title": "Leadership Stories: Literature, Ethics, and Authority",
+  "course_description": "This course explores how we use story to articulate ethical norms. The syllabus consists of short fiction, novels, plays, feature films and some non-fiction. Major topics include leadership and authority, professionalism, the nature of ethical standards, social enterprise, and questions of gender, cultural and individual identity, and work / life balance. Materials vary from year to year, but past readings have included work by Robert Bolt, Michael Frayn, Timothy Mo, Wole Soyinka, H. D. Thoreau, and others; films have included _Crouching Tiger, Hidden Dragon, Hotel Rwanda, The Descendants, Motorcycle Diaries, Three Kings_, and others. Draws on various professions and national cultures, and is run as a series of moderated discussions, with students centrally engaged in the teaching process.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.269",
+  "course_image_thumbnail": {
+    "content": "aaefc798-ddcc-27e4-35e7-0d4bdfdc812f",
+    "website": "15-269-leadership-stories-literature-ethics-and-authority-fall-2015"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Activity Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "ce9bd4f6-87da-42bf-9759-a43054ac4658",
+  "site_short_id": "15.269-fall-2015",
+  "site_url_path": "courses/15-269-leadership-stories-literature-ethics-and-authority-fall-2015",
+  "title": "Course Metadata"
+}

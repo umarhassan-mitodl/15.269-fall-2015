@@ -1,0 +1,61 @@
+leftnav:
+- identifier: dd40c65a-3079-3fe3-9981-712dbe5ac1a0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8006240c-ad08-b192-b82c-5e5373202344
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: e8b31a0f-3663-a010-89db-ea24ce5fe4f2
+  name: Rocking Students Back on Their Heels
+  pageRef: /pages/instructor-insights/rocking-students-back-on-their-heels
+  parent: 8006240c-ad08-b192-b82c-5e5373202344
+  weight: 30
+- identifier: 1cdacfc5-64d6-ad26-0d17-df969584241c
+  name: Basing a Leadership Course on Story
+  pageRef: /pages/instructor-insights/basing-a-leadership-course-on-story
+  parent: 8006240c-ad08-b192-b82c-5e5373202344
+  weight: 40
+- identifier: 83bdd078-f5e6-bd8f-d28a-23e065019e8d
+  name: Explaining the Core Concept
+  pageRef: /pages/instructor-insights/explaining-the-core-concept-the-story-our-story-managerial-practice
+  parent: 8006240c-ad08-b192-b82c-5e5373202344
+  weight: 50
+- identifier: 59dce143-2b5b-5f01-6a46-8e76b27bb236
+  name: Changing the Course through the Years
+  pageRef: /pages/instructor-insights/changing-the-course-through-the-years
+  parent: 8006240c-ad08-b192-b82c-5e5373202344
+  weight: 60
+- identifier: b6216ed1-a078-52e8-cfd1-96eff55eed1f
+  name: Fostering Meaningful Discussions
+  pageRef: /pages/instructor-insights/fostering-meaningful-discussions
+  parent: 8006240c-ad08-b192-b82c-5e5373202344
+  weight: 70
+- identifier: 99236087-ccf6-4d70-bb62-c27393cde3f8
+  name: Teaching in Teams
+  pageRef: /pages/instructor-insights/teaching-leadership-by-having-students-teach-in-teams
+  parent: 8006240c-ad08-b192-b82c-5e5373202344
+  weight: 80
+- identifier: 25d32e8e-022e-2fc2-cf3e-ca858634941c
+  name: Giving Students Feedback
+  pageRef: /pages/instructor-insights/giving-students-feedback
+  parent: 8006240c-ad08-b192-b82c-5e5373202344
+  weight: 90
+- identifier: 339083d5-0871-cd11-53f2-c10d9ec732b5
+  name: Readings
+  pageRef: /pages/readings
+  weight: 100
+- identifier: 710b3de0-e593-762c-498d-ab15f2739011
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 110
+- identifier: 4ec4154a-75e0-2e2b-a1a3-bd9f74e134c9
+  name: Co-teaching Assignment
+  pageRef: /pages/assignments/co-teaching-assignment
+  parent: 710b3de0-e593-762c-498d-ab15f2739011
+  weight: 120
+- identifier: 6fca2e51-2c4e-8599-b3d1-bda4a7b5cbf2
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 130
