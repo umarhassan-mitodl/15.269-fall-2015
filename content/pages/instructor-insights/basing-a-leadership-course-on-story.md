@@ -3,6 +3,8 @@ content_type: page
 description: In this section, Dr. Leigh Hafrey shares how his experience growing up
   in several cultures helped him understand how story serves as a useful foundation
   for teaching a course about leadership in corporate settings.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
